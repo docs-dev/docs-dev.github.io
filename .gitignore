@@ -41,4 +41,5 @@ _book/
 
 .idea/
 exapp/
+.vuepress/dist
 !.vscode/

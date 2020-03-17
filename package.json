@@ -1,27 +1,27 @@
 {
-  "name": "feathers-docs",
-  "description": "Feathers documentation",
+  "name": "docs",
+  "description": "documentation",
   "version": "2.2.0",
   "private": true,
-  "homepage": "https://github.com/feathersjs/feathers-docs",
+  "homepage": "https://github.com/docs-dev/docs",
   "main": "",
   "keywords": [
-    "feathers",
-    "feathers-docs"
+    "docs",
+    "dev"
   ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/feathersjs/feathers-docs.git"
+    "url": "git://github.com/docs-dev/docs.git"
   },
   "author": {
-    "name": "Feathers contributors",
-    "email": "hello@feathersjs.com",
-    "url": "https://feathersjs.com"
+    "name": "contributors",
+    "email": "hello@docs-dev.com",
+    "url": "https://docs-dev.com"
   },
   "contributors": [],
   "bugs": {
-    "url": "https://github.com/feathersjs/feathers-docs/issues"
+    "url": "https://github.com/docs-dev/docs/issues"
   },
   "engines": {
     "node": ">= 6.0.0"
